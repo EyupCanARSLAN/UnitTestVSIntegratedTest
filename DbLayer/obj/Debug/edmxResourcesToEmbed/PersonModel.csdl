@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="IntegrationTestSampleModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="MessageFromPerson">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="PersonId" Type="Int32" Nullable="false" />
+    <Property Name="Message" Type="String" MaxLength="500" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Person" Relationship="Self.FK_MessageFromPerson_Person" FromRole="MessageFromPerson" ToRole="Person" />
+  </EntityType>
+  <EntityType Name="Person">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Surname" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="MessageFromPerson" Relationship="Self.FK_MessageFromPerson_Person" FromRole="Person" ToRole="MessageFromPerson" />
+  </EntityType>
+  <Association Name="FK_MessageFromPerson_Person">
+    <End Role="Person" Type="Self.Person" Multiplicity="1" />
+    <End Role="MessageFromPerson" Type="Self.MessageFromPerson" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Person">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="MessageFromPerson">
+        <PropertyRef Name="PersonId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="IntegrationTestSampleEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="MessageFromPerson" EntityType="Self.MessageFromPerson" />
+    <EntitySet Name="Person" EntityType="Self.Person" />
+    <AssociationSet Name="FK_MessageFromPerson_Person" Association="Self.FK_MessageFromPerson_Person">
+      <End Role="Person" EntitySet="Person" />
+      <End Role="MessageFromPerson" EntitySet="MessageFromPerson" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

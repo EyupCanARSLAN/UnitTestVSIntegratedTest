@@ -1,0 +1,20 @@
+C:\Users\CanBey-Pc\Documents\Visual Studio 2015\Projects\UnitAndIntegratedTest\DbLayer\bin\Debug\DbLayer.dll.config
+C:\Users\CanBey-Pc\Documents\Visual Studio 2015\Projects\UnitAndIntegratedTest\DbLayer\bin\Debug\DbLayer.dll
+C:\Users\CanBey-Pc\Documents\Visual Studio 2015\Projects\UnitAndIntegratedTest\DbLayer\bin\Debug\DbLayer.pdb
+C:\Users\CanBey-Pc\Documents\Visual Studio 2015\Projects\UnitAndIntegratedTest\DbLayer\bin\Debug\EntityFramework.dll
+C:\Users\CanBey-Pc\Documents\Visual Studio 2015\Projects\UnitAndIntegratedTest\DbLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\CanBey-Pc\Documents\Visual Studio 2015\Projects\UnitAndIntegratedTest\DbLayer\bin\Debug\EntityFramework.xml
+C:\Users\CanBey-Pc\Documents\Visual Studio 2015\Projects\UnitAndIntegratedTest\DbLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\CanBey-Pc\Documents\Visual Studio 2015\Projects\UnitAndIntegratedTest\DbLayer\obj\Debug\DbLayer.dll
+C:\Users\CanBey-Pc\Documents\Visual Studio 2015\Projects\UnitAndIntegratedTest\DbLayer\obj\Debug\DbLayer.pdb
+C:\MyWorks\UnitAndIntegratedTest\UnitAndIntegratedTest\DbLayer\bin\Debug\DbLayer.dll.config
+C:\MyWorks\UnitAndIntegratedTest\UnitAndIntegratedTest\DbLayer\bin\Debug\DbLayer.dll
+C:\MyWorks\UnitAndIntegratedTest\UnitAndIntegratedTest\DbLayer\bin\Debug\DbLayer.pdb
+C:\MyWorks\UnitAndIntegratedTest\UnitAndIntegratedTest\DbLayer\bin\Debug\EntityFramework.dll
+C:\MyWorks\UnitAndIntegratedTest\UnitAndIntegratedTest\DbLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\MyWorks\UnitAndIntegratedTest\UnitAndIntegratedTest\DbLayer\bin\Debug\EntityFramework.xml
+C:\MyWorks\UnitAndIntegratedTest\UnitAndIntegratedTest\DbLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\MyWorks\UnitAndIntegratedTest\UnitAndIntegratedTest\DbLayer\obj\Debug\DbLayer.csprojResolveAssemblyReference.cache
+C:\MyWorks\UnitAndIntegratedTest\UnitAndIntegratedTest\DbLayer\obj\Debug\DbLayer.csproj.CoreCompileInputs.cache
+C:\MyWorks\UnitAndIntegratedTest\UnitAndIntegratedTest\DbLayer\obj\Debug\DbLayer.dll
+C:\MyWorks\UnitAndIntegratedTest\UnitAndIntegratedTest\DbLayer\obj\Debug\DbLayer.pdb

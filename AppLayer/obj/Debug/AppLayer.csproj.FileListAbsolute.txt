@@ -1,0 +1,26 @@
+C:\Users\CanBey-Pc\Documents\Visual Studio 2015\Projects\UnitAndIntegratedTest\AppLayer\bin\Debug\AppLayer.exe.config
+C:\Users\CanBey-Pc\Documents\Visual Studio 2015\Projects\UnitAndIntegratedTest\AppLayer\bin\Debug\AppLayer.exe
+C:\Users\CanBey-Pc\Documents\Visual Studio 2015\Projects\UnitAndIntegratedTest\AppLayer\bin\Debug\AppLayer.pdb
+C:\Users\CanBey-Pc\Documents\Visual Studio 2015\Projects\UnitAndIntegratedTest\AppLayer\bin\Debug\DbLayer.dll
+C:\Users\CanBey-Pc\Documents\Visual Studio 2015\Projects\UnitAndIntegratedTest\AppLayer\bin\Debug\EntityFramework.dll
+C:\Users\CanBey-Pc\Documents\Visual Studio 2015\Projects\UnitAndIntegratedTest\AppLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\CanBey-Pc\Documents\Visual Studio 2015\Projects\UnitAndIntegratedTest\AppLayer\bin\Debug\DbLayer.pdb
+C:\Users\CanBey-Pc\Documents\Visual Studio 2015\Projects\UnitAndIntegratedTest\AppLayer\bin\Debug\EntityFramework.xml
+C:\Users\CanBey-Pc\Documents\Visual Studio 2015\Projects\UnitAndIntegratedTest\AppLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\CanBey-Pc\Documents\Visual Studio 2015\Projects\UnitAndIntegratedTest\AppLayer\obj\Debug\AppLayer.csprojResolveAssemblyReference.cache
+C:\Users\CanBey-Pc\Documents\Visual Studio 2015\Projects\UnitAndIntegratedTest\AppLayer\obj\Debug\AppLayer.exe
+C:\Users\CanBey-Pc\Documents\Visual Studio 2015\Projects\UnitAndIntegratedTest\AppLayer\obj\Debug\AppLayer.pdb
+C:\MyWorks\UnitAndIntegratedTest\UnitAndIntegratedTest\AppLayer\bin\Debug\AppLayer.exe.config
+C:\MyWorks\UnitAndIntegratedTest\UnitAndIntegratedTest\AppLayer\bin\Debug\AppLayer.exe
+C:\MyWorks\UnitAndIntegratedTest\UnitAndIntegratedTest\AppLayer\bin\Debug\AppLayer.pdb
+C:\MyWorks\UnitAndIntegratedTest\UnitAndIntegratedTest\AppLayer\bin\Debug\DbLayer.dll
+C:\MyWorks\UnitAndIntegratedTest\UnitAndIntegratedTest\AppLayer\bin\Debug\EntityFramework.dll
+C:\MyWorks\UnitAndIntegratedTest\UnitAndIntegratedTest\AppLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\MyWorks\UnitAndIntegratedTest\UnitAndIntegratedTest\AppLayer\bin\Debug\DbLayer.pdb
+C:\MyWorks\UnitAndIntegratedTest\UnitAndIntegratedTest\AppLayer\bin\Debug\DbLayer.dll.config
+C:\MyWorks\UnitAndIntegratedTest\UnitAndIntegratedTest\AppLayer\bin\Debug\EntityFramework.xml
+C:\MyWorks\UnitAndIntegratedTest\UnitAndIntegratedTest\AppLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\MyWorks\UnitAndIntegratedTest\UnitAndIntegratedTest\AppLayer\obj\Debug\AppLayer.csprojResolveAssemblyReference.cache
+C:\MyWorks\UnitAndIntegratedTest\UnitAndIntegratedTest\AppLayer\obj\Debug\AppLayer.csproj.CoreCompileInputs.cache
+C:\MyWorks\UnitAndIntegratedTest\UnitAndIntegratedTest\AppLayer\obj\Debug\AppLayer.exe
+C:\MyWorks\UnitAndIntegratedTest\UnitAndIntegratedTest\AppLayer\obj\Debug\AppLayer.pdb

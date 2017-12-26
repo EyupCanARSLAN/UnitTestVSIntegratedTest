@@ -1,0 +1,53 @@
+C:\Users\CanBey-Pc\Documents\Visual Studio 2015\Projects\UnitAndIntegratedTest\TestLayer\bin\Debug\TestLayer.dll.config
+C:\Users\CanBey-Pc\Documents\Visual Studio 2015\Projects\UnitAndIntegratedTest\TestLayer\bin\Debug\TestLayer.dll
+C:\Users\CanBey-Pc\Documents\Visual Studio 2015\Projects\UnitAndIntegratedTest\TestLayer\bin\Debug\TestLayer.pdb
+C:\Users\CanBey-Pc\Documents\Visual Studio 2015\Projects\UnitAndIntegratedTest\TestLayer\bin\Debug\AppLayer.exe
+C:\Users\CanBey-Pc\Documents\Visual Studio 2015\Projects\UnitAndIntegratedTest\TestLayer\bin\Debug\Castle.Core.dll
+C:\Users\CanBey-Pc\Documents\Visual Studio 2015\Projects\UnitAndIntegratedTest\TestLayer\bin\Debug\DbLayer.dll
+C:\Users\CanBey-Pc\Documents\Visual Studio 2015\Projects\UnitAndIntegratedTest\TestLayer\bin\Debug\EntityFramework.dll
+C:\Users\CanBey-Pc\Documents\Visual Studio 2015\Projects\UnitAndIntegratedTest\TestLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\CanBey-Pc\Documents\Visual Studio 2015\Projects\UnitAndIntegratedTest\TestLayer\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\CanBey-Pc\Documents\Visual Studio 2015\Projects\UnitAndIntegratedTest\TestLayer\bin\Debug\Moq.dll
+C:\Users\CanBey-Pc\Documents\Visual Studio 2015\Projects\UnitAndIntegratedTest\TestLayer\bin\Debug\NSubstitute.dll
+C:\Users\CanBey-Pc\Documents\Visual Studio 2015\Projects\UnitAndIntegratedTest\TestLayer\bin\Debug\nunit.framework.dll
+C:\Users\CanBey-Pc\Documents\Visual Studio 2015\Projects\UnitAndIntegratedTest\TestLayer\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\CanBey-Pc\Documents\Visual Studio 2015\Projects\UnitAndIntegratedTest\TestLayer\bin\Debug\AppLayer.pdb
+C:\Users\CanBey-Pc\Documents\Visual Studio 2015\Projects\UnitAndIntegratedTest\TestLayer\bin\Debug\DbLayer.pdb
+C:\Users\CanBey-Pc\Documents\Visual Studio 2015\Projects\UnitAndIntegratedTest\TestLayer\bin\Debug\Castle.Core.xml
+C:\Users\CanBey-Pc\Documents\Visual Studio 2015\Projects\UnitAndIntegratedTest\TestLayer\bin\Debug\EntityFramework.xml
+C:\Users\CanBey-Pc\Documents\Visual Studio 2015\Projects\UnitAndIntegratedTest\TestLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\CanBey-Pc\Documents\Visual Studio 2015\Projects\UnitAndIntegratedTest\TestLayer\bin\Debug\Moq.pdb
+C:\Users\CanBey-Pc\Documents\Visual Studio 2015\Projects\UnitAndIntegratedTest\TestLayer\bin\Debug\Moq.xml
+C:\Users\CanBey-Pc\Documents\Visual Studio 2015\Projects\UnitAndIntegratedTest\TestLayer\bin\Debug\nunit.framework.xml
+C:\Users\CanBey-Pc\Documents\Visual Studio 2015\Projects\UnitAndIntegratedTest\TestLayer\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\CanBey-Pc\Documents\Visual Studio 2015\Projects\UnitAndIntegratedTest\TestLayer\obj\Debug\TestLayer.csprojResolveAssemblyReference.cache
+C:\Users\CanBey-Pc\Documents\Visual Studio 2015\Projects\UnitAndIntegratedTest\TestLayer\obj\Debug\TestLayer.dll
+C:\Users\CanBey-Pc\Documents\Visual Studio 2015\Projects\UnitAndIntegratedTest\TestLayer\obj\Debug\TestLayer.pdb
+C:\MyWorks\UnitAndIntegratedTest\UnitAndIntegratedTest\TestLayer\bin\Debug\TestLayer.dll.config
+C:\MyWorks\UnitAndIntegratedTest\UnitAndIntegratedTest\TestLayer\bin\Debug\TestLayer.dll
+C:\MyWorks\UnitAndIntegratedTest\UnitAndIntegratedTest\TestLayer\bin\Debug\TestLayer.pdb
+C:\MyWorks\UnitAndIntegratedTest\UnitAndIntegratedTest\TestLayer\bin\Debug\AppLayer.exe
+C:\MyWorks\UnitAndIntegratedTest\UnitAndIntegratedTest\TestLayer\bin\Debug\Castle.Core.dll
+C:\MyWorks\UnitAndIntegratedTest\UnitAndIntegratedTest\TestLayer\bin\Debug\DbLayer.dll
+C:\MyWorks\UnitAndIntegratedTest\UnitAndIntegratedTest\TestLayer\bin\Debug\EntityFramework.dll
+C:\MyWorks\UnitAndIntegratedTest\UnitAndIntegratedTest\TestLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\MyWorks\UnitAndIntegratedTest\UnitAndIntegratedTest\TestLayer\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\MyWorks\UnitAndIntegratedTest\UnitAndIntegratedTest\TestLayer\bin\Debug\Moq.dll
+C:\MyWorks\UnitAndIntegratedTest\UnitAndIntegratedTest\TestLayer\bin\Debug\NSubstitute.dll
+C:\MyWorks\UnitAndIntegratedTest\UnitAndIntegratedTest\TestLayer\bin\Debug\nunit.framework.dll
+C:\MyWorks\UnitAndIntegratedTest\UnitAndIntegratedTest\TestLayer\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\MyWorks\UnitAndIntegratedTest\UnitAndIntegratedTest\TestLayer\bin\Debug\AppLayer.pdb
+C:\MyWorks\UnitAndIntegratedTest\UnitAndIntegratedTest\TestLayer\bin\Debug\AppLayer.exe.config
+C:\MyWorks\UnitAndIntegratedTest\UnitAndIntegratedTest\TestLayer\bin\Debug\DbLayer.pdb
+C:\MyWorks\UnitAndIntegratedTest\UnitAndIntegratedTest\TestLayer\bin\Debug\DbLayer.dll.config
+C:\MyWorks\UnitAndIntegratedTest\UnitAndIntegratedTest\TestLayer\bin\Debug\Castle.Core.xml
+C:\MyWorks\UnitAndIntegratedTest\UnitAndIntegratedTest\TestLayer\bin\Debug\EntityFramework.xml
+C:\MyWorks\UnitAndIntegratedTest\UnitAndIntegratedTest\TestLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\MyWorks\UnitAndIntegratedTest\UnitAndIntegratedTest\TestLayer\bin\Debug\Moq.pdb
+C:\MyWorks\UnitAndIntegratedTest\UnitAndIntegratedTest\TestLayer\bin\Debug\Moq.xml
+C:\MyWorks\UnitAndIntegratedTest\UnitAndIntegratedTest\TestLayer\bin\Debug\nunit.framework.xml
+C:\MyWorks\UnitAndIntegratedTest\UnitAndIntegratedTest\TestLayer\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\MyWorks\UnitAndIntegratedTest\UnitAndIntegratedTest\TestLayer\obj\Debug\TestLayer.csprojResolveAssemblyReference.cache
+C:\MyWorks\UnitAndIntegratedTest\UnitAndIntegratedTest\TestLayer\obj\Debug\TestLayer.csproj.CoreCompileInputs.cache
+C:\MyWorks\UnitAndIntegratedTest\UnitAndIntegratedTest\TestLayer\obj\Debug\TestLayer.dll
+C:\MyWorks\UnitAndIntegratedTest\UnitAndIntegratedTest\TestLayer\obj\Debug\TestLayer.pdb
